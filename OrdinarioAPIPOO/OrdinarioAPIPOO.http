@@ -1,0 +1,6 @@
+@OrdinarioAPIPOO_HostAddress = http://localhost:5217
+
+GET {{OrdinarioAPIPOO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
